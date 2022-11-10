@@ -4,7 +4,13 @@
 - 🌱 I’m currently learning Javascript, React JS, Solidity and 3D animations
 - 💞️ I want to get Blockchain developer certifications to find a job, especially in Canada 🇨🇦
 - 📫 How to reach me:
-          https://twitter.com/CryptosaurusRe4
+     https://twitter.com/CryptosaurusRe4
+          
+- 💼 My FreeCodeCamp certifications:
+     https://freecodecamp.org/certification/Crypt0zauruS/javascript-algorithms-and-data-structures
+     https://www.freecodecamp.org/certification/Crypt0zauruS/responsive-web-design
+     https://www.freecodecamp.org/certification/Crypt0zauruS/front-end-development-libraries
+     
           
 
 <!---
