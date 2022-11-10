@@ -6,7 +6,8 @@
 - 📫 How to reach me:
      https://twitter.com/CryptosaurusRe4
           
-- 💼 My FreeCodeCamp certifications:
+- 💼 My learnWeb3DAO profile:
+ https://learnweb3.io/profiles/Crypt0zauruS
      
           
 
