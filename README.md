@@ -7,8 +7,11 @@
      https://twitter.com/CryptosaurusRe4
           
 - 💼 My FreeCodeCamp certifications:
+- 
      https://freecodecamp.org/certification/Crypt0zauruS/javascript-algorithms-and-data-structures
+     
      https://www.freecodecamp.org/certification/Crypt0zauruS/responsive-web-design
+     
      https://www.freecodecamp.org/certification/Crypt0zauruS/front-end-development-libraries
      
           
