@@ -17,8 +17,11 @@
 - 👨🏽‍🎓 My freeCodeCamp certifications:
 
      https://www.freecodecamp.org/certification/Crypt0zauruS/responsive-web-design
+     
      https://freecodecamp.org/certification/Crypt0zauruS/javascript-algorithms-and-data-structures
+     
      https://www.freecodecamp.org/certification/Crypt0zauruS/front-end-development-libraries
+     
      https://www.freecodecamp.org/certification/Crypt0zauruS/legacy-front-end
      
 
