@@ -15,6 +15,7 @@
  https://learnweb3.io/profiles/Crypt0zauruS
      
 - 👨🏽‍🎓 My freeCodeCamp certifications:
+
      https://www.freecodecamp.org/certification/Crypt0zauruS/responsive-web-design
      https://freecodecamp.org/certification/Crypt0zauruS/javascript-algorithms-and-data-structures
      https://www.freecodecamp.org/certification/Crypt0zauruS/front-end-development-libraries
