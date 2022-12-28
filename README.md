@@ -3,9 +3,14 @@
      Travel around the world, Web3 & Metaverse, Cryptocurrencies - NFT - DeFi, 3D Animations
 - 🌱 I’m currently learning Javascript, React JS, Next JS, Solidity and 3D animations
 - 💞️ I want to get Blockchain developer certifications to find a job, especially in Canada 🇨🇦
-- 📫 How to reach me:
+- 📫 How to reach me ?
+
+     On twitter:
      https://twitter.com/CryptosaurusRe4
-          
+     
+     On LinkedIn:
+     https://www.linkedin.com/in/maxence-a-a82081260
+         
 - 💼 My learnWeb3DAO profile:
  https://learnweb3.io/profiles/Crypt0zauruS
      
