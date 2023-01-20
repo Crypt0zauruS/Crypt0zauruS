@@ -13,6 +13,9 @@
          
 - 💼 My learnWeb3DAO profile with my Freshman, Sophomore & Junior certifications:
  https://learnweb3.io/profiles/Crypt0zauruS
+ 
+- 🔮 My Metaschool profile with "Basics of Web3" and "Token Champion" certifications
+ https://metaschool.so/profile/Crypt0zauruS
      
 - 👨🏽‍🎓 My freeCodeCamp certifications:
 
