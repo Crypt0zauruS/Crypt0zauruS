@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in Computer Science, Debian, Home automation, Sciences especially Astronomy, 
      Travel around the world, Web3 & Metaverse, Cryptocurrencies - NFT - DeFi, 3D Animations
+     
 - 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity and 3D animations skills
 
 - 💞️ My aim is to find a Web3 job, especially in Canada 🇨🇦
@@ -15,8 +16,15 @@
      
      On LinkedIn:
      https://www.linkedin.com/in/maxence-a-a82081260
+     
+     My Blog/Portfolio
+     https://crypt0zaurus-portfolio.vercel.app/
+     
+- 💼  My OpenClassroom certifications:
+     [Create a complete React App](https://openclassrooms.com/fr/course-certificates/4678452364)
+     [Version control with git/github](https://openclassrooms.com/fr/course-certificates/4726951816)
          
-- 💼 My learnWeb3DAO profile with my Freshman, Sophomore & Junior certifications:
+- 💼 My learnWeb3DAO profile with my Freshman, Sophomore, Junior & Senior certifications:
  https://learnweb3.io/profiles/Crypt0zauruS
  
 - 🔮 My Metaschool profile with "Basics of Web3" and "Token Champion" certifications
