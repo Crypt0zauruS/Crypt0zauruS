@@ -22,6 +22,7 @@
      
 - 💼  My OpenClassroom certifications:
      [Create a complete React App](https://openclassrooms.com/fr/course-certificates/4678452364)
+     
      [Version control with git/github](https://openclassrooms.com/fr/course-certificates/4726951816)
          
 - 💼 My learnWeb3DAO profile with my Freshman, Sophomore, Junior & Senior certifications:
