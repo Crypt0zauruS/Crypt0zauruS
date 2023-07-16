@@ -7,8 +7,6 @@
      
 - 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity and 3D animations skills
 
-- 💞️ My aim is to find a Web3 job, especially in Canada 🇨🇦
-
 - 📫 How to reach me ?
 
      On twitter:
