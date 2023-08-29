@@ -5,7 +5,7 @@
 - 👀 I’m interested in Computer Science, Debian, Home automation, Sciences especially Astronomy, 
      Travel around the world, Web3 & Metaverse, Cryptocurrencies - NFT - DeFi, 3D Animations
      
-- 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity and 3D animations skills
+- 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity, AI and 3D animations skills
 
 - 📫 How to reach me ?
 
