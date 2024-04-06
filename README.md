@@ -7,6 +7,8 @@
      
 - 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity, AI and 3D animations skills
 
+- I am currently enrolled in a Computer Science program at Cegep Gerald-Godin in Montreal 🇨🇦
+
 - 📫 How to reach me ?
 
      On twitter:
