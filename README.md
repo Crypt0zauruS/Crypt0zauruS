@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Crypt0zauruS
+- 👋 Hi, I’m Maxence
 
 - 👨🏽‍🎓 Awarded student at [Alyra](https://www.alyra.fr/) I'm a Blockchain Developer
 
 - 👀 I’m interested in Computer Science, Debian, Home automation, Sciences especially Astronomy, 
-     Travel around the world, Web3 & Metaverse, Cryptocurrencies - NFT - DeFi, 3D Animations
+     Travel around the world, Web3, Cryptocurrencies - NFT - DeFi, Generative AI and 3D Animations under Unreal Engine
      
 - 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity, AI and 3D animations skills
 
