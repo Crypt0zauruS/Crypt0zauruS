@@ -10,9 +10,6 @@
 - I am currently enrolled in a Computer Science program at Cegep Gerald-Godin in Montreal 🇨🇦
 
 - 📫 How to reach me ?
-
-     On twitter:
-     https://twitter.com/CryptosaurusRe4
      
      On LinkedIn:
      https://www.linkedin.com/in/maxence-a-a82081260
