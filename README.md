@@ -1,13 +1,19 @@
 - 👋 Hi, I’m Maxence
 
-- 👨🏽‍🎓 Awarded student at [Alyra](https://www.alyra.fr/) I'm a Blockchain Developer
+- 👨🏽‍🎓 Awarded student at [Alyra](https://www.alyra.fr/) I'm a Blockchain Developer on EVM and Solana
 
-- 👀 I’m interested in Computer Science, Debian, Home automation, Sciences especially Astronomy, 
+- 👀 I’m interested in Computer Science, Operating systems, Home automation, Sciences especially Astronomy, 
      Travel around the world, Web3, Cryptocurrencies - NFT - DeFi, Generative AI and 3D Animations under Unreal Engine
      
-- 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity, AI and 3D animations skills
+- 🌱 I ❤️ to learn Javascript, React JS, Next JS, Solidity, Anchor, AI and 3D animations skills
 
 - I am currently enrolled in a Computer Science program at Cegep Gerald-Godin in Montreal 🇨🇦
+
+- I am looking for opportunities to build great projects
+
+- [2Wheels2Rent](https://openclassrooms.com/fr/course-certificates/4678452364) bike sharing dApp on Polygon network
+
+- [GemQuest](https://gemquest-pi.vercel.app/) waiting time gamification dApp on Solana
 
 - 📫 How to reach me ?
      
@@ -25,7 +31,7 @@
      [Version control with git/github](https://openclassrooms.com/fr/course-certificates/4726951816)
          
 - 💼 My learnWeb3DAO profile with my Freshman, Sophomore, Junior & Senior certifications:
- https://learnweb3.io/profiles/Crypt0zauruS
+ https://learnweb3.io/u/Crypt0zauruS/
  
 - 🔮 My Metaschool profile with "Basics of Web3" and "Token Champion" certifications
  https://metaschool.so/profile/Crypt0zauruS
