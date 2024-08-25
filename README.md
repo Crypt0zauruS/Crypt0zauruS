@@ -11,7 +11,7 @@
 
 - I am looking for opportunities to build great projects
 
-- [2Wheels2Rent](https://openclassrooms.com/fr/course-certificates/4678452364) bike sharing dApp on Polygon network
+- [2Wheels2Rent](https://crypt0zauru-s-alyra-2-wheels2-rent-project.vercel.app/) bike sharing dApp on Polygon network
 
 - [GemQuest](https://gemquest-pi.vercel.app/) waiting time gamification dApp on Solana
 
